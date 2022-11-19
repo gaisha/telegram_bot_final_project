@@ -1,1 +1,8 @@
-# telegram_bot_final_project
+# telegram-bot-ml
+
+
+### to run the code
+
+docker compose build
+
+docker compose --env-file .env up
